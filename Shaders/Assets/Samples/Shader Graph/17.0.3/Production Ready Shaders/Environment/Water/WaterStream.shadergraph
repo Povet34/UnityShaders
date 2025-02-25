@@ -3187,8 +3187,8 @@
     "m_ObjectId": "12c975a799cc402cab0de0eebf38d1c2",
     "m_Title": "Animated Foam",
     "m_Position": {
-        "x": -1800.5,
-        "y": -461.0
+        "x": -1800.0,
+        "y": -461.00006103515627
     }
 }
 
@@ -5499,8 +5499,8 @@
     "m_ObjectId": "49fe7f37a6ae4209897c3adb5b2d0c7b",
     "m_Title": "Depth Fog",
     "m_Position": {
-        "x": -1478.9998779296875,
-        "y": 547.4999389648438
+        "x": -1479.0,
+        "y": 547.0
     }
 }
 
@@ -6828,7 +6828,7 @@
     "m_DefaultValue": {
         "x": 0.0,
         "y": 0.0,
-        "z": 0.0
+        "z": 1.0
     },
     "m_Labels": []
 }
@@ -7674,8 +7674,8 @@
     "m_ObjectId": "748e969c8c25440bb4437513bd96bc5d",
     "m_Title": "Edge Mask",
     "m_Position": {
-        "x": -1183.4998779296875,
-        "y": 1262.0
+        "x": -1183.0,
+        "y": 1262.000244140625
     }
 }
 
@@ -9830,7 +9830,7 @@
     "m_Title": "Refraction",
     "m_Position": {
         "x": -1349.0,
-        "y": 171.4999542236328
+        "y": 171.0
     }
 }
 
@@ -11258,8 +11258,8 @@
     "m_ObjectId": "b5eb57ca612e4baca7abb96b30dadc90",
     "m_Title": "Convert Normals To World Space",
     "m_Position": {
-        "x": -1745.5,
-        "y": 924.5
+        "x": -1745.0,
+        "y": 924.0
     }
 }
 
@@ -12137,7 +12137,7 @@
     "m_Title": "Flowing Normals",
     "m_Position": {
         "x": -2412.0,
-        "y": 159.4998779296875
+        "y": 159.0
     }
 }
 
@@ -12196,7 +12196,7 @@
     "m_ObjectId": "c9e70852d76d4971a4e0c1af20a0bcdc",
     "m_Title": "Generate an edge mask to make the water flow faster in the middle",
     "m_Position": {
-        "x": -3377.0,
+        "x": -3377.000244140625,
         "y": -63.0
     }
 }
@@ -13974,7 +13974,7 @@
     "m_Title": "Create coordinates that stay square even though the plane is non-uniform scaled",
     "m_Position": {
         "x": -2986.0,
-        "y": 550.5
+        "y": 550.0
     }
 }
 
