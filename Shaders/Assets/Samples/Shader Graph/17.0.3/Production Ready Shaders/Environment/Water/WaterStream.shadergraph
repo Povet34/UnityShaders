@@ -3188,7 +3188,7 @@
     "m_Title": "Animated Foam",
     "m_Position": {
         "x": -1800.0,
-        "y": -461.00006103515627
+        "y": -461.0
     }
 }
 
@@ -7675,7 +7675,7 @@
     "m_Title": "Edge Mask",
     "m_Position": {
         "x": -1183.0,
-        "y": 1262.000244140625
+        "y": 1262.0
     }
 }
 
@@ -12196,7 +12196,7 @@
     "m_ObjectId": "c9e70852d76d4971a4e0c1af20a0bcdc",
     "m_Title": "Generate an edge mask to make the water flow faster in the middle",
     "m_Position": {
-        "x": -3377.000244140625,
+        "x": -3377.0,
         "y": -63.0
     }
 }

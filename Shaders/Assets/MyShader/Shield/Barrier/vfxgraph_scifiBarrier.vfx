@@ -1114,7 +1114,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":16.412525177001954,"g":9.207547187805176,"b":0.0,"a":1.0}'
+      m_SerializableObject: '{"r":32.825050354003909,"g":18.41509437561035,"b":0.0,"a":1.0}'
     m_Space: -1
   m_Property:
     name: _BorderColor
