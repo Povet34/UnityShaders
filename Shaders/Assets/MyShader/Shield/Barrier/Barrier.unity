@@ -1145,7 +1145,7 @@ MonoBehaviour:
     SplineCurvature: 0.636
   RecenteringTarget: 2
   HorizontalAxis:
-    Value: 54.1
+    Value: 54.100006
     Center: 0
     Range: {x: -180, y: 180}
     Wrap: 1

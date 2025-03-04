@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyShader/Shield/Barrier/Barrier.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/MyShader/Snow/InteractiveSnow/InteractiveSnow.unity
+    guid: 750e6ba46f5c1e44aa95fe2bd0dc6ab3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
