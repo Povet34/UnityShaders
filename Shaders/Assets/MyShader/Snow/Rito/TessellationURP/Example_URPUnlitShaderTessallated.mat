@@ -28,7 +28,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Noise:
-        m_Texture: {fileID: 2800000, guid: af8edf011e1423348a4a2c4fb28dcf79, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -40,9 +40,9 @@ Material:
     - _ColorIntensity: 1.45
     - _EdgeLength: 4.3
     - _HeightMultiplier: 0.7
-    - _MaxTessDistance: 19.4
-    - _Tess: 7.3
-    - _Weight: 1
+    - _MaxTessDistance: 32
+    - _Tess: 13.3
+    - _Weight: 0
     - __dirty: 1
     m_Colors: []
   m_BuildTextureStacks: []
