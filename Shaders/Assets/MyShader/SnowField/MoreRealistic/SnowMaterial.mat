@@ -105,14 +105,14 @@ Material:
     - _BumpScale: 1
     - _Cull: 2
     - _Cutoff: 0.5
-    - _DissolveRate: 0.98
+    - _DissolveRate: 0
     - _DstBlend: 0
     - _Emission: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _HeightMultiplier: 1
+    - _HeightMultiplier: 12
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _QueueControl: 0
@@ -120,12 +120,12 @@ Material:
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
-    - _SnowGloss: 0.7
-    - _SparkleMix: 0.879
+    - _SnowGloss: 5.35
+    - _SparkleMix: 0.249
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _TrailBlend: 0.707
+    - _TrailBlend: 0.431
     - _TrailGloss: 0.65
     - _WorkflowMode: 1
     - _ZWrite: 1
@@ -135,7 +135,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _TrailColor_1: {r: 0.8228907, g: 0.8473376, b: 0.8679245, a: 1}
+    - _TrailColor_1: {r: 0.32395872, g: 0.55891776, b: 0.754717, a: 1}
     - _TrailTiling: {r: 2, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
