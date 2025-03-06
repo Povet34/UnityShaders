@@ -125,7 +125,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _TrailBlend: 0.431
+    - _TrailBlend: 0.476
     - _TrailGloss: 0.65
     - _WorkflowMode: 1
     - _ZWrite: 1

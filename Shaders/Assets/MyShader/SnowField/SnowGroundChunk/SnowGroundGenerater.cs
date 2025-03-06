@@ -17,7 +17,7 @@ public class SnowGroundGenerater : MonoBehaviour
                 snowGroundChunk.Init(new SnowGroundChunk.ChunkParam
                 {
                     index = index++,
-                    center = new Vector2(x * 10f, y * 10f), // 격자 간격을 10으로 설정
+                    center = new Vector2(x * 20f, y * 20f), // 격자 간격을 10으로 설정
                     snowMaterial = snowMaterial
                 });
             }
