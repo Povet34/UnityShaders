@@ -24,20 +24,20 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _FogNoise:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 11700000, guid: 40924409fab539743854f79279632984, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 2.84, y: 0}
     m_Ints: []
     m_Floats:
-    - _DensityMultiplier: 2.51
-    - _DensityThreshold: 0.38
-    - _LightScattering: 0.247
+    - _DensityMultiplier: 0.1
+    - _DensityThreshold: 1
+    - _LightScattering: 0.622
     - _MaxDistance: 100
-    - _NoiseOffset: 4
-    - _NoiseTiling: 3.97
-    - _StepSize: 5.62
+    - _NoiseOffset: 1
+    - _NoiseTiling: 3.4
+    - _StepSize: 0.5
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _LightContribution: {r: 0, g: 0.16062586, b: 0.990566, a: 1}
+    - _Color: {r: 0.63318795, g: 0.7113048, b: 0.8773585, a: 1}
+    - _LightContribution: {r: 0.2783019, g: 0.66965175, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
