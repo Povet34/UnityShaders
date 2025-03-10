@@ -27,8 +27,8 @@ Material:
     m_Floats:
     - _DensityMultiplier: 0.01
     - _MaxDistance: 100
-    - _StepSize: 0.1
+    - _StepSize: 0.5
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.7924528, g: 0.7629262, b: 0.58686364, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
