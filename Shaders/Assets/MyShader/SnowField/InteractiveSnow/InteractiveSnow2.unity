@@ -318,9 +318,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79f512dbef2aedc4cb990c050365bae7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  snowMaterial: {fileID: 2100000, guid: bacc7dec06bc56345bcea5d77b600718, type: 2}
-  snowGroundChunkPrefab: {fileID: -4695132833412230689, guid: 7cdb1aafd2b1bde44bd87a3ab73950a2, type: 3}
+  snowMaterial: {fileID: 2100000, guid: f6a9a72d45f1de245ad47cc9facf1cda, type: 2}
+  snowGroundChunkPrefab: {fileID: -3290890405141713349, guid: 432395bbc82ad624687f3b37f02f8f2c, type: 3}
   gridSize: 5
+  offsetSize: 19
 --- !u!4 &252004707
 Transform:
   m_ObjectHideFlags: 0

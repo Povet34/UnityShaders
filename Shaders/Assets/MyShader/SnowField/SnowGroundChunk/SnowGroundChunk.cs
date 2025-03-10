@@ -36,7 +36,7 @@ public class SnowGroundChunk : MonoBehaviour
 
         // snowMaterial 인스턴스 생성 및 렌더 텍스처 적용
         instanceSnowMaterial = Instantiate(param.snowMaterial);
-        instanceSnowMaterial.SetTexture("_SplatMap", renderTexture);
+        instanceSnowMaterial.SetTexture("_RenderTexture", renderTexture);
 
         meshRenderer.material = instanceSnowMaterial;
     }

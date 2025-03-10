@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class SnowGroundGenerater : MonoBehaviour
@@ -6,7 +7,33 @@ public class SnowGroundGenerater : MonoBehaviour
     [SerializeField] SnowGroundChunk snowGroundChunkPrefab;
     [SerializeField] int gridSize = 5;
 
+    [SerializeField] int offsetSize = 19;
+
+    List<SnowGroundChunk> snowGroundChunks = new List<SnowGroundChunk>();
+
+    //private void OnValidate()
+    //{
+    //    Debug.Log("ddd");
+    //    DestroyChunks();
+    //    GenerateChunk();
+    //}
+
     private void Start()
+    {
+        GenerateChunk();
+    }
+
+    void DestroyChunks()
+    {
+        foreach (var chunk in snowGroundChunks)
+        {
+            Destroy(chunk.gameObject);
+        }
+        snowGroundChunks.Clear();
+    }
+
+
+    void GenerateChunk()
     {
         int index = 0;
         for (int x = 0; x < gridSize; x++)
@@ -17,9 +44,11 @@ public class SnowGroundGenerater : MonoBehaviour
                 snowGroundChunk.Init(new SnowGroundChunk.ChunkParam
                 {
                     index = index++,
-                    center = new Vector2(x * 20f, y * 20f), // 격자 간격을 10으로 설정
+                    center = new Vector2(x * offsetSize, y * offsetSize),
                     snowMaterial = snowMaterial
                 });
+
+                snowGroundChunks.Add(snowGroundChunk);
             }
         }
     }

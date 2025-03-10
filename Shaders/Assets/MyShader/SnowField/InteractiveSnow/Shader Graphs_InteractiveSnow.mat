@@ -58,9 +58,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SnowBrightness: 1.43
-    - _SnowPower: 4.68
-    - _SnowScale: 100
-    - _vertexOffset: 0.015
+    - _SnowPower: 4.56
+    - _SnowScale: 103.46
+    - _vertexOffset: 0.01
     m_Colors:
     - _SnowColor: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 0.5058824}
   m_BuildTextureStacks: []
