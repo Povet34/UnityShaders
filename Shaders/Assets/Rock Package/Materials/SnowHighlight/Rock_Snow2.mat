@@ -44,13 +44,13 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SnoNoiseScale: 13.75
+    - _SnoNoiseScale: 12.02
     - _SnowColorMultiflier: 2.13
-    - _SnowSoftEdge: 0.7
+    - _SnowSoftEdge: 1.1
     m_Colors:
     - _SnowColor: {r: 0.41337395, g: 0.7490196, b: 0.6893492, a: 0}
     - _SnowColorMultiplier: {r: 1.3854592, g: 1.3854592, b: 1.3854592, a: 0}
-    - _SnowDirection: {r: 0, g: 1, b: 0, a: 0}
+    - _SnowDirection: {r: -0.27, g: 0.94, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1994249299980023698
