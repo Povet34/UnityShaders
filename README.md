@@ -30,3 +30,9 @@ https://github.com/user-attachments/assets/5894f0a2-e97e-4d2e-aa96-23c91ac26ec0
 
 https://github.com/user-attachments/assets/627ffb20-6949-4726-91ac-80058b679a6a
 
+
+
+### Fake Interior
+
+https://www.youtube.com/watch?time_continue=192&v=rC4BHR-Cx0s&embeds_referring_euri=https%3A%2F%2Faetuts.itch.io%2Ffake-interior-urp-graph&source_ve_path=MjM4NTE
+
