@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyShader/SnowHighlight/SnowHighlight.unity
     guid: 2677bdf2567ee5d40b44660878fc2f9e
+  - enabled: 1
+    path: Assets/MyShader/Water/BasicOceans/BasicOceans.unity
+    guid: fe7f07e86b09d374896ef095dda765c1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
