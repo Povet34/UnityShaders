@@ -2158,7 +2158,7 @@
         "m_SerializedTexture": "",
         "m_Guid": ""
     },
-    "m_DefaultType": 0
+    "m_DefaultType": 3
 }
 
 {
@@ -2607,8 +2607,8 @@
     "m_ObjectId": "5d28e04dbbf44f8fbbd445e046f1ffd6",
     "m_Title": "Wave",
     "m_Position": {
-        "x": -1267.0,
-        "y": -833.0
+        "x": -1267.0001220703125,
+        "y": -833.0001220703125
     }
 }
 
@@ -4770,7 +4770,7 @@
         "m_SerializedTexture": "",
         "m_Guid": ""
     },
-    "m_DefaultType": 0
+    "m_DefaultType": 3
 }
 
 {

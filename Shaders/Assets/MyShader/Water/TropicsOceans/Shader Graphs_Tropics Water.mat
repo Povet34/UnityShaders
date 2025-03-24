@@ -70,13 +70,13 @@ Material:
     - _CastShadows: 1
     - _Cull: 2
     - _Depth: 2
-    - _Displacement: 0.391
+    - _Displacement: 0.678
     - _DstBlend: 10
-    - _NormalStrength: 0.5
+    - _NormalStrength: 0.521
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.987
+    - _Smoothness: 0.708
     - _SrcBlend: 1
     - _Strength: 0.3
     - _Surface: 1
