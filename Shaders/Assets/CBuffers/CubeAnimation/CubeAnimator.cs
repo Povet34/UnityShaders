@@ -19,12 +19,23 @@ public class CubeAnimator : MonoBehaviour
 
     private ComputeBuffer constantBuffer;  // ComputeBuffer 선언
 
+    private Transform[] children;
+
     void OnEnable()
     {
         // 구조체 크기 계산 및 ComputeBuffer 생성
         int bufferSize = System.Runtime.InteropServices.Marshal.SizeOf(typeof(CubeProperties));
         Debug.Log($"bufferSize {bufferSize}");
         constantBuffer = new ComputeBuffer(1, bufferSize);
+
+        children = GetComponentsInChildren<Transform>();
+        foreach(var child in children)
+        {
+            if (child != transform) // 자기 자신은 제외
+            {
+                child.transform.position = Random.insideUnitSphere * range;
+            }
+        }
     }
 
     void OnDisable()
