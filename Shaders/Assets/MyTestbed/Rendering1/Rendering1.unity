@@ -326,8 +326,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 929852111}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.25947103, y: -0.013040942, z: 0.0034899262, w: 0.9656566}
-  m_LocalPosition: {x: 1.1115348, y: 25.983414, z: -45.448013}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -390,6 +390,7 @@ GameObject:
   - component: {fileID: 1914876506}
   - component: {fileID: 1914876507}
   - component: {fileID: 1914876508}
+  - component: {fileID: 1914876509}
   m_Layer: 0
   m_Name: TransformationGrid
   m_TagString: Untagged
@@ -438,7 +439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a80e80514aa4364588cced0ca8269b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  position: {x: 0, y: 0, z: 0}
+  position: {x: 0, y: 0, z: -10}
 --- !u!114 &1914876507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -465,6 +466,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotation: {x: 0, y: 0, z: 0}
+--- !u!114 &1914876509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1914876503}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e28133b54ec10064a8053620c4b99516, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  focalLength: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
