@@ -48,7 +48,7 @@ Material:
     - _SnowColorMultiflier: 2.13
     - _SnowSoftEdge: 1.1
     m_Colors:
-    - _SnowColor: {r: 0.41337395, g: 0.7490196, b: 0.6893492, a: 0}
+    - _SnowColor: {r: 0.40049842, g: 0.6792453, b: 0.6306266, a: 0}
     - _SnowColorMultiplier: {r: 1.3854592, g: 1.3854592, b: 1.3854592, a: 0}
     - _SnowDirection: {r: -0.27, g: 0.94, b: 0, a: 0}
   m_BuildTextureStacks: []
@@ -65,4 +65,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 9
+  version: 10
