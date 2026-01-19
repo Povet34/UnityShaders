@@ -37,6 +37,14 @@ https://github.com/user-attachments/assets/627ffb20-6949-4726-91ac-80058b679a6a
 https://github.com/user-attachments/assets/a068f16a-0e86-495d-838a-b19d52b9f531
 
 
+### Wall Cutout
+
+<img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/0515685c-236f-4f34-b5cb-5dc35cfcca62" />
+
+<img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/bc6a0b4f-ca35-4994-be6e-f4e2304a34e1" />
+
+
+
 ### Retro Dither
 
 
