@@ -1,5 +1,5 @@
-# UnityShaders
-UnityShaders 
+# UnityShader Showcase
+직접 만들어본 셰이더 또는 이펙트들을 모아둔 곳입니다.
 
 ### Reinhardt Like Shield
 
