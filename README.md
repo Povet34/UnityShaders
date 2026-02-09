@@ -44,6 +44,14 @@ https://github.com/user-attachments/assets/a068f16a-0e86-495d-838a-b19d52b9f531
 <img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/bc6a0b4f-ca35-4994-be6e-f4e2304a34e1" />
 
 
+### Sobel Outline
+
+<img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/a0007355-5a6c-49a2-b356-3b685a171e09" />
+
+<img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/48abf714-31d2-480b-90ce-2c8ce86e5f8c" />
+
+<img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/384738c2-d98f-4445-890f-297e2855ac67" />
+
 
 ### Retro Dither
 
