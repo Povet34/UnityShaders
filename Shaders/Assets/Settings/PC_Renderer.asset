@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0880bf276399cc1429d9226e89ef338c, type: 3}
   m_Name: OutlineRendererFeature
   m_EditorClassIdentifier: Assembly-CSharp::OutlineRendererFeature
-  m_Active: 1
+  m_Active: 0
   m_Material: {fileID: 2100000, guid: 78a08787ca30045abb69f6f7dd878e09, type: 2}
   InjectionPoint: 500
   requirements: -1
