@@ -221,13 +221,13 @@
     },
     "m_Name": "Split",
     "m_DrawState": {
-        "m_Expanded": true,
+        "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -72.00003051757813,
-            "y": 13.75006103515625,
-            "width": 120.00003814697266,
-            "height": 148.9998779296875
+            "x": -77.99999237060547,
+            "y": -26.000015258789064,
+            "width": 119.00000762939453,
+            "height": 77.00001525878906
         }
     },
     "m_Slots": [
@@ -295,10 +295,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 414.0,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
+            "x": 347.0000305175781,
+            "y": -146.99996948242188,
+            "width": 116.0,
+            "height": 77.0000228881836
         }
     },
     "m_Slots": [
@@ -329,10 +329,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -253.99996948242188,
-            "y": -177.25003051757813,
-            "width": 144.99996948242188,
-            "height": 111.00003051757813
+            "x": -106.99999237060547,
+            "y": -164.0,
+            "width": 145.0,
+            "height": 110.99998474121094
         }
     },
     "m_Slots": [
@@ -393,7 +393,7 @@
         "take away"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -499,10 +499,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -318.0,
-            "y": -34.25,
-            "width": 208.0,
-            "height": 312.0
+            "x": -285.0,
+            "y": -56.99995422363281,
+            "width": 144.99998474121095,
+            "height": 127.99996948242188
         }
     },
     "m_Slots": [
@@ -512,7 +512,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
