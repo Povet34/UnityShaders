@@ -520,7 +520,7 @@ PrefabInstance:
     - target: {fileID: -7635826562936255635, guid: 5cae62cf78392084b88d6957b35162ef, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 97f671fdb4a8c3440947fe05bb2c62a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 79c3a3896fb580340bfb513cfba58425, type: 2}
     - target: {fileID: 919132149155446097, guid: 5cae62cf78392084b88d6957b35162ef, type: 3}
       propertyPath: m_Name
       value: HighPolyPlane

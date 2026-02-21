@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-398588741352435230
+--- !u!114 &-743292031283021346
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Waves
-  m_Shader: {fileID: -6465566751694194690, guid: f937941ec99cae44fa56e9ab562e46d1, type: 3}
+  m_Name: Shader Graphs_IntersectionFoam
+  m_Shader: {fileID: -6465566751694194690, guid: 683df0946430e2d409042f18002ba50c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -55,11 +55,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Foam_Distance: 0.63
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Wave_Speed: 1.91
-    - _Wave_Strength: 0.1
+    - _Wave_Speed: 1.36
+    - _Wave_Strength: 0.61
     m_Colors:
-    - _Base_Color: {r: 0.104352035, g: 0.18553424, b: 0.6320754, a: 0.3254902}
+    - _Base_Color: {r: 0.30709323, g: 0.41122168, b: 0.9716981, a: 0.68235296}
+    - _Foam_Color: {r: 0.6431373, g: 0.2890294, b: 0.18431371, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
