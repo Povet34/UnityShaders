@@ -58,10 +58,12 @@ Material:
     - _Foam_Distance: 0.63
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Wave_Speed: 1.36
-    - _Wave_Strength: 0.61
+    - _Wave_Speed: 1.2
+    - _Wave_Strength: 0.1
     m_Colors:
     - _Base_Color: {r: 0.30709323, g: 0.41122168, b: 0.9716981, a: 0.68235296}
+    - _Depth_Sample_Offset: {r: 0.03, g: -0.07, b: 0, a: 0}
     - _Foam_Color: {r: 0.6431373, g: 0.2890294, b: 0.18431371, a: 1}
+    - _Foam_Velocity: {r: 0.81, g: -0.27, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
