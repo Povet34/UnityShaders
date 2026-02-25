@@ -42,8 +42,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Edge_Threshold: 0.01
-    - _Intersection_Power: 0.01
+    - _Edge_Threshold: 0.105
+    - _Intersection_Power: 14.6
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
