@@ -53,6 +53,12 @@ https://github.com/user-attachments/assets/a068f16a-0e86-495d-838a-b19d52b9f531
 <img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/384738c2-d98f-4445-890f-297e2855ac67" />
 
 
+### Parallax Occlusion Mapping
+
+<img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/c86647f1-aa9c-4df6-8205-56cb4cbd54dc" />
+
+
+
 ### Sobel Outline
 
 ### Retro Dither
