@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_CellShaded
+  m_Name: Shader Graphs_CelShaded
   m_Shader: {fileID: -6465566751694194690, guid: d681ede8247644f4c933005c5d11a873, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
