@@ -24,7 +24,7 @@ void AdditionalLights_float(float3 WorldPos, int lightID,
     Color = 1.0f;
     Attenuation = 1.0f;
     
-#ifndef SHADERGRAPH_PREVIEW
+#ifdef SHADERGRAPH_PREVIEW
     int lightCount = GetAdditionalLightsCount();
     if (lightID < lightCount)
     {
