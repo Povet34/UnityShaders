@@ -252,6 +252,34 @@ MonoBehaviour:
   m_Name: VolumeComponentSupportedEverywhere
   m_EditorClassIdentifier: Unity.RenderPipelines.Core.Editor.Tests:UnityEngine.Rendering.Tests:VolumeComponentEditorSupportedOnTests/VolumeComponentSupportedEverywhere
   active: 1
+--- !u!114 &-5290423663270233444
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bda9f15d66513344eb6aed3e356ed19c, type: 3}
+  m_Name: OutlineVolumeComponent
+  m_EditorClassIdentifier: Assembly-CSharp::OutlineVolumeComponent
+  active: 1
+  intensity:
+    m_OverrideState: 1
+    m_Value: 1
+  isOn:
+    m_OverrideState: 1
+    m_Value: 1
+  OutlineNormalThreshold:
+    m_OverrideState: 1
+    m_Value: 0
+  OutlineDepthThreshold:
+    m_OverrideState: 1
+    m_Value: 0
+  OutlineColor:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &-5139089513906902183
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -465,6 +493,7 @@ MonoBehaviour:
   - {fileID: -6288072647309666549}
   - {fileID: 7518938298396184218}
   - {fileID: -1410297666881709256}
+  - {fileID: -5290423663270233444}
 --- !u!114 &853819529557874667
 MonoBehaviour:
   m_ObjectHideFlags: 3
