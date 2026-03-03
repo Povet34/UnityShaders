@@ -819,7 +819,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "AdditionalLights (Custom Function)",
+    "m_Name": "AdditionalLight (Custom Function)",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -859,9 +859,9 @@
         "m_SerializableColors": []
     },
     "m_SourceType": 0,
-    "m_FunctionName": "AdditionalLights",
+    "m_FunctionName": "AdditionalLight",
     "m_FunctionSource": "9332e43c36acaa4459e052779db5112d",
-    "m_FunctionSourceUsePragmas": true,
+    "m_FunctionSourceUsePragmas": false,
     "m_FunctionBody": "Enter function body here..."
 }
 
@@ -948,7 +948,7 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -893.0,
+            "x": -894.0000610351563,
             "y": -373.0,
             "width": 206.0,
             "height": 130.0
