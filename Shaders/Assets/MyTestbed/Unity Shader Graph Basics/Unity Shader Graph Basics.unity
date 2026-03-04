@@ -2448,6 +2448,7 @@ GameObject:
   - component: {fileID: 2059497291}
   - component: {fileID: 2059497290}
   - component: {fileID: 2059497293}
+  - component: {fileID: 2059497294}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2522,8 +2523,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2059497289}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.24142666, y: 0.71119404, z: -0.28936428, w: -0.5934513}
-  m_LocalPosition: {x: 35.57174, y: 6.7989044, z: -11.690386}
+  m_LocalRotation: {x: 0.09201945, y: 0.8902175, z: -0.20740683, w: 0.39500335}
+  m_LocalPosition: {x: 167.14258, y: 184.27516, z: 769.6491}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2573,6 +2574,20 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!114 &2059497294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059497289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93ad3fd0822a38a48bc4ba896052584e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WorldScanner
+  scanSpeed: 1
+  terrain: {fileID: 1970380211}
 --- !u!1 &2101053238
 GameObject:
   m_ObjectHideFlags: 0
