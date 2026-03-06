@@ -71,8 +71,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Normal_End: 0.6
-    - _Normal_Start: 0.5
+    - _Normal_End: 0.721
+    - _Normal_Start: 0.441
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ScanDistance: 365.31915
