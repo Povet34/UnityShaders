@@ -71,8 +71,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Normal_End: 0.6
+    - _Normal_Start: 0.5
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    - _ScanDistance: 365.31915
+    - _ScanWidth: 1.44
+    m_Colors:
+    - _ScanColor: {r: 0, g: 10.86633, b: 32, a: 1}
+    - _ScanOrigin: {r: 338.3039, g: 109.6562, b: 575.77124, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

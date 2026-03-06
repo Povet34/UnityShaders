@@ -2586,7 +2586,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93ad3fd0822a38a48bc4ba896052584e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WorldScanner
-  scanSpeed: 1
+  scanSpeed: 100
   terrain: {fileID: 1970380211}
 --- !u!1 &2101053238
 GameObject:
