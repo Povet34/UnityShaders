@@ -58,10 +58,18 @@ https://github.com/user-attachments/assets/a068f16a-0e86-495d-838a-b19d52b9f531
 <img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/c86647f1-aa9c-4df6-8205-56cb4cbd54dc" />
 
 
+### Outline & Grey 
+
+<img width="880" height="558" alt="image" src="https://github.com/user-attachments/assets/7bc7afc7-6e81-4078-84af-d13b7631c10c" />
+
+
+
 
 ### Sobel Outline
 
 ### Retro Dither
+
+
 
 
 
