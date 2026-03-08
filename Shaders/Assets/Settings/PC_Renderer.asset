@@ -32,7 +32,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b00045f12942b46c698459096c89274e, type: 3}
   m_Name: Outline
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.FullScreenPassRendererFeature
-  m_Active: 1
+  m_Active: 0
   injectionPoint: 600
   fetchColorBuffer: 1
   requirements: 6
@@ -70,9 +70,9 @@ MonoBehaviour:
   - {fileID: -5428112091925955921}
   - {fileID: 1962664701172231750}
   - {fileID: 4736462591417616250}
-  - {fileID: 8377249351612201437}
   - {fileID: -3100157273868409622}
-  m_RendererFeatureMap: ad6b866f10d7b46cd08647736fc69204af3ac0cfcf78abb446ae91a625c93c1b7a875fcda14bbb41dd79b795e6f74174eae43a7f6207fad4
+  - {fileID: 8377249351612201437}
+  m_RendererFeatureMap: ad6b866f10d7b46cd08647736fc69204af3ac0cfcf78abb446ae91a625c93c1b7a875fcda14bbb41eae43a7f6207fad4dd79b795e6f74174
   m_UseNativeRenderPass: 1
   xrSystemData: {fileID: 0}
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
@@ -188,7 +188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b00045f12942b46c698459096c89274e, type: 3}
   m_Name: GrayScale
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.FullScreenPassRendererFeature
-  m_Active: 1
+  m_Active: 0
   injectionPoint: 550
   fetchColorBuffer: 1
   requirements: 4
