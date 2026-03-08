@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_GreyScale
+  m_Name: Shader Graphs_GrayScale
   m_Shader: {fileID: -6465566751694194690, guid: d3ee109c386e1c44da491fda9dc919cf, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
