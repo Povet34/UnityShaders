@@ -1362,37 +1362,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4000010968662070, guid: 30b99e7dc1382e346a7f9789de00de5e, type: 3}
   m_PrefabInstance: {fileID: 62439633}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &65778399
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 65778400}
-  m_Layer: 0
-  m_Name: Env (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &65778400
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 65778399}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0.32819074, y: -0.62067455, z: 0.32029462, w: -0.6359759}
-  m_LocalPosition: {x: 36.340286, y: 56.12, z: 66.98117}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1279786532}
-  m_LocalEulerAnglesHint: {x: 54.591, y: 88.605, z: 0}
 --- !u!1001 &70321437
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3331,7 +3300,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!154 &143864106
 TerrainCollider:
@@ -3363,7 +3332,7 @@ Terrain:
   m_Enabled: 1
   serializedVersion: 6
   m_TerrainData: {fileID: 15600000, guid: 6a2baf2c9e13aa14aa256b9f0da51b99, type: 2}
-  m_TreeDistance: 5000
+  m_TreeDistance: 200
   m_TreeBillboardDistance: 50
   m_TreeCrossFadeLength: 5
   m_TreeMaximumFullLODCount: 50
@@ -28654,8 +28623,6 @@ Transform:
   - {fileID: 1764228909}
   - {fileID: 25361182}
   - {fileID: 271862152}
-  - {fileID: 65778400}
-  - {fileID: 2087379849}
   - {fileID: 1421500799}
   - {fileID: 1954777545}
   - {fileID: 1272663948}
@@ -45915,12 +45882,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2087379846}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.11500951, y: 0.8602511, z: -0.4439265, w: -0.22286803}
-  m_LocalPosition: {x: 73.93971, y: 49.33893, z: 89.79883}
+  m_LocalRotation: {x: 0.03403546, y: 0.8786822, z: -0.47195637, w: 0.06337548}
+  m_LocalPosition: {x: 99.774414, y: 11.528503, z: 120.348755}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1279786532}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2087379850
 MonoBehaviour:
@@ -46963,3 +46930,4 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 384737787}
+  - {fileID: 2087379849}
