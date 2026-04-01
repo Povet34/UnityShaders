@@ -64,6 +64,14 @@ https://github.com/user-attachments/assets/a068f16a-0e86-495d-838a-b19d52b9f531
 
 
 
+### GerstnerWave
+
+
+https://github.com/user-attachments/assets/483e6113-0a3b-4853-833b-608bc8f1a3e3
+
+
+
+
 
 ### Sobel Outline
 
