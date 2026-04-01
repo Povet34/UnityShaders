@@ -101,8 +101,8 @@ Material:
     - _Puddle_Size: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Rain_Intensity: 1
-    - _Rain_Wetness: 0.5
+    - _Rain_Intensity: 0.951
+    - _Rain_Wetness: 0.368
     - _RayTracing: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0

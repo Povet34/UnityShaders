@@ -23,7 +23,6 @@ Material:
   m_CustomRenderQueue: 2750
   stringTagMap:
     MotionVector: User
-    RenderType: Transparent
   disabledShaderPasses:
   - TransparentDepthPrepass
   - TransparentDepthPostpass
@@ -75,7 +74,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_d4075b1d9c7241d194dbc09f8cba7233_Texture_1_Texture2D:
-        m_Texture: {fileID: 5361089613174043344}
+        m_Texture: {fileID: 5361089613174043344, guid: 2f7116f10747a67409388e93052ae222, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TMPFunctionCustomFunction_bb92ec3de3914d6fbdf242980a921d0d_FontTexture_1_Texture2D:
@@ -101,6 +100,8 @@ Material:
     - _AlphaDstBlend: 10
     - _AlphaSrcBlend: 1
     - _Ambient: 0.5
+    - _BUILTIN_QueueControl: -1
+    - _BUILTIN_QueueOffset: 0
     - _Bevel: 0.5
     - _BevelClamp: 0
     - _BevelOffset: 0
@@ -123,6 +124,7 @@ Material:
     - _Emission_Intensity: 0
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 1
+    - _ExcludeFromTUAndAA: 0
     - _FaceDilate: 0
     - _FaceUVSpeedX: 0
     - _FaceUVSpeedY: 0
@@ -145,7 +147,7 @@ Material:
     - _OutlineWidth: 0
     - _PerPixelSorting: 0
     - _PerspectiveFilter: 0.875
-    - _QueueControl: -1
+    - _QueueControl: 1
     - _QueueOffset: 0
     - _RayTracing: 0
     - _ReceivesSSR: 1
@@ -2915,7 +2917,7 @@ Texture2D:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
   m_IsAlphaChannelOptional: 0
-  serializedVersion: 3
+  serializedVersion: 4
   m_Width: 512
   m_Height: 512
   m_CompleteImageSize: 262144
