@@ -75,10 +75,10 @@ Material:
     - _Normal_Start: 0.441
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _ScanDistance: 365.31915
+    - _ScanDistance: 397.36047
     - _ScanWidth: 1.44
     m_Colors:
     - _ScanColor: {r: 0, g: 10.86633, b: 32, a: 1}
-    - _ScanOrigin: {r: 338.3039, g: 109.6562, b: 575.77124, a: 0}
+    - _ScanOrigin: {r: 95.473976, g: 44.86629, b: 25.339455, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
